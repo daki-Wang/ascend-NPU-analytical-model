@@ -1,0 +1,119 @@
+[
+  {
+    "category": "性能模型与资源调度",
+    "file": "性能模型与资源调度\\Analytical_Resource_Management_MoE_2609.07536.pdf",
+    "venue": "arXiv 2026 / SC26 workshop",
+    "url": "https://arxiv.org/pdf/2609.07536",
+    "pages": 11,
+    "sha256": "b8a0e21ec78d0f3b506e5e68333b2ccf63c6ab88fa27ffd8f3418ac3073648ca",
+    "first_page": "Analytical Resource Management for Fine-grained MoE Computation-Communication Overlap Hongyu Liu Chalmers University of Technology and University of Gothenburg Gothenburg, Sweden hongyuli@chalmers.se Minyu Cui Linnaeus University V¨axj¨o, Sweden minyu.cui@lnu."
+  },
+  {
+    "category": "性能模型与资源调度",
+    "file": "性能模型与资源调度\\Weave_Dynamic_SM_Scheduling_2609.21483v3.pdf",
+    "venue": "arXiv 2026",
+    "url": "https://arxiv.org/pdf/2609.21483v3",
+    "pages": 13,
+    "sha256": "8af8dc041185d39818bface62b424c3337e481cc30998be460637f367eab222c",
+    "first_page": "Weave: Fine-Grained Dynamic SM Scheduling in an MoE Megakernel for Compute-Communication Overlap Ziyu Huang∗1, Yangjie Zhou∗2, Chenhao Zhu 1, Peng Yu3, Zihan Liu 1, Jinyu Liu 1, Shulai Zhang 1, Xingxun Tang1, Hongzhe Yan1, Xinhao Luo 1, Minyi Guo 1, Xiu Lin 4,"
+  },
+  {
+    "category": "性能模型与资源调度",
+    "file": "性能模型与资源调度\\DynaNDE_2609.00407.pdf",
+    "venue": "arXiv 2026",
+    "url": "https://arxiv.org/pdf/2609.00407",
+    "pages": 9,
+    "sha256": "fb076ac3c125641b9fd0ae32f2e69ec16d9aabac793539c8f6a6c1c857237179",
+    "first_page": "DynaNDE: Dynamic Near-Data Expert Scheduling for Batched MoE Inference Xiaoyang Lu Illinois Institute of Technology Chicago, Illinois, USA xlu40@illinoistech.edu Belthangady Akash Vi Narayana Pai Illinois Institute of Technology Chicago, Illinois, USA bnarayan"
+  },
+  {
+    "category": "性能模型与资源调度",
+    "file": "性能模型与资源调度\\Piper_2605.05049.pdf",
+    "venue": "arXiv 2026",
+    "url": "https://arxiv.org/pdf/2605.05049",
+    "pages": 12,
+    "sha256": "d6b3894f94b697dae4243bf572b30602a00e8e23711aa8b18b41110cb3cf1d95",
+    "first_page": "Piper: Efficient Large-Scale MoE Training via Resource Modeling and Pipelined Hybrid Parallelism Sajal Dash Oak Ridge National Laboratory Oak Ridge, USA Email: dashs@ornl.gov Feiyi Wang Oak Ridge National Laboratory Oak Ridge, USA Email: fwang2@ornl.gov Abstra"
+  },
+  {
+    "category": "性能模型与资源调度",
+    "file": "性能模型与资源调度\\MPMoE_TPDS_2024.pdf",
+    "venue": "IEEE TPDS 2024",
+    "url": "https://hu-chuang.github.io/research/TPDS202403.pdf",
+    "pages": 14,
+    "sha256": "486fc3a75ae7eebb45a7a9ded59979aa3b3c7cd3f00a12f58a28d0f80c6f97bd",
+    "first_page": "998 IEEE TRANSACTIONS ON PARALLEL AND DISTRIBUTED SYSTEMS, VOL. 35, NO. 6, JUNE 2024 MPMoE: Memory Efﬁcient MoE for Pre-Trained Models With Adaptive Pipeline Parallelism Zheng Zhang ,Y a q iX i a , Hulin Wang , Donglin Y ang , Chuang Hu , Xiaobo Zhou , Senior "
+  },
+  {
+    "category": "融合算子与Tile级重叠",
+    "file": "融合算子与Tile级重叠\\COMET_MLSys_2025_2502.19811v3.pdf",
+    "venue": "MLSys 2025 / arXiv",
+    "url": "https://arxiv.org/pdf/2502.19811v3",
+    "pages": 14,
+    "sha256": "7658333b15614270d63af72d3aceb81b86e628a8962e956cdaac9c03b434c957",
+    "first_page": "Comet: Fine-grained Computation-communication Overlapping for Mixture-of-Experts Shulai Zhang 1,2,◦,∗, Ningxin Zheng 1,◦,†, Haibin Lin 1,†, Ziheng Jiang 1, Wenlei Bao 1, Chengquan Jiang 1, Qi Hou 1, Weihao Cui 2, Size Zheng 1, Li-Wen Chang 1, Quan Chen2,†, Xin"
+  },
+  {
+    "category": "融合算子与Tile级重叠",
+    "file": "融合算子与Tile级重叠\\FlashMoE_NeurIPS_2025_2506.04667v3.pdf",
+    "venue": "NeurIPS 2025 / arXiv",
+    "url": "https://arxiv.org/pdf/2506.04667v3",
+    "pages": 24,
+    "sha256": "5936a399197ff141bcb5c428e04d8a8032125c6e438247a1d0e4094cbb9b7bfc",
+    "first_page": "FlashMoE: Fast Distributed MoE in a Single Kernel Osayamen Jonathan Aimuyo∗ Cornell University oja7@cornell.edu Byungsoo Oh Cornell University bo239@cornell.edu Rachee Singh Cornell University rs2293@cornell.edu Abstract The computational sparsity of Mixture-o"
+  },
+  {
+    "category": "融合算子与Tile级重叠",
+    "file": "融合算子与Tile级重叠\\Tile_level_signaling_ICPP_2026_2607.19539.pdf",
+    "venue": "ICPP 2026 / arXiv",
+    "url": "https://arxiv.org/pdf/2607.19539",
+    "pages": 11,
+    "sha256": "66ea59645558f8617193a8f0d35b1d5aa6bc2af61c1abc5d2a36e3849439065d",
+    "first_page": "Fine-grained Computation-Communication Overlap via Tile-level Signaling and Scheduling for Mixture-of-Experts Minyu Cui Linnaeus University Växjö, Sweden minyu.cui@lnu.se Anna Wingkvist Linnaeus University Växjö, Sweden anna.wingkvist@lnu.se Morgan Ericsson Li"
+  },
+  {
+    "category": "融合算子与Tile级重叠",
+    "file": "融合算子与Tile级重叠\\INC_MoE_2610.36339.pdf",
+    "venue": "arXiv 2026",
+    "url": "https://arxiv.org/pdf/2610.36339",
+    "pages": 19,
+    "sha256": "b8eb253d84680c9d40e59b66feae0c7ea3ea8b7d3c03f5786919ff105fc4ddfd",
+    "first_page": "INC-MoE: Overlapping In-Network Collectives and Expert Computation for Expert-Parallel Mixture-of-Experts Inference John Stephan 1∗, Razvan Puscasu 1, Xu Yong 2, Ding Jiutao 1, Guan Zixuan 2 1Huawei, Switzerland 2Huawei, Beijing, China Abstract In expert-paral"
+  },
+  {
+    "category": "融合算子与Tile级重叠",
+    "file": "融合算子与Tile级重叠\\TileLink_2503.20313.pdf",
+    "venue": "MLSys 2025 / arXiv",
+    "url": "https://arxiv.org/pdf/2503.20313",
+    "pages": 20,
+    "sha256": "fc4f4f9b10bad31c954f31d13b4dd0cbb117726925c218d1604d94d7c4f39702",
+    "first_page": "TileLink: Generating Efficient Compute-Communication Overlapping Kernels using Tile-Centric Primitives Size Zheng 1,∗,†, Jin Fang 1,∗, Xuegui Zheng 1, Qi Hou 1, Wenlei Bao 1, Ningxin Zheng 1, Ziheng Jiang 1, Dongyang Wang 1, Jianxi Ye 1, Haibin Lin 1, Li-Wen C"
+  },
+  {
+    "category": "专家并行通信与系统",
+    "file": "专家并行通信与系统\\SwiftEP_NSDI_2026.pdf",
+    "venue": "NSDI 2026",
+    "url": "https://www.usenix.org/system/files/nsdi26-li-xingyi.pdf",
+    "pages": 18,
+    "sha256": "b84003bc14439fd5609356bc6daedbff6752718393877b07adfcb3c8d53f0dc3",
+    "first_page": "This paper is included in the Proceedings of the 23rd USENIX Symposium  on Networked Systems Design and Implementation. May 4–6, 2026 • Renton, WA, USA ISBN 978-1-939133-54-0 Open access to the Proceedings of the 23rd USENIX Symposium   on Networked Systems De"
+  },
+  {
+    "category": "专家并行通信与系统",
+    "file": "专家并行通信与系统\\UEP_OSDI_2026.pdf",
+    "venue": "OSDI 2026",
+    "url": "https://www.usenix.org/system/files/osdi26-mao-ziming-uep.pdf",
+    "pages": 18,
+    "sha256": "eece4ac174e902cd458a06953ca8a2c54185310da35a733605a27a6012c94697",
+    "first_page": "This paper is included in the Proceedings of the 20th USENIX   Symposium on Operating Systems Design and Implementation. July 13–15, 2026 • Seattle, WA, USA ISBN 978-1-939133-55-7 Open access to the Proceedings of the 20th USENIX Symposium on  Operating System"
+  },
+  {
+    "category": "专家并行通信与系统",
+    "file": "专家并行通信与系统\\Lancet_MLSys_2024.pdf",
+    "venue": "MLSys 2024",
+    "url": "https://proceedings.mlsys.org/paper_files/paper/2024/file/339caf45a6fa281cae8adc6465343464-Paper-Conference.pdf",
+    "pages": 13,
+    "sha256": "6b3b40658b100fa847107c47d24c382d82110aee7e082546c99cb2cbeda17842",
+    "first_page": "LANCET : A CCELERATING MIXTURE -OF-EXPERTS TRAINING VIA WHOLE GRAPH COMPUTATION -C OMMUNICATION OVERLAPPING Chenyu Jiang 1 * Ye Tian1 * Zhen Jia 2 Shuai Zheng 3 † Chuan Wu 1 Yida Wang2 ABSTRACT The Mixture-of-Expert (MoE) technique plays a crucial role in expa"
+  }
+]
